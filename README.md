@@ -27,6 +27,8 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </br></br></br>
 
+<h1>:star2:GitHub Stats:star2:</h1>
+                                                                                                     
 ![leehk77789's GitHub stats](https://github-readme-stats.vercel.app/api?username=leehk77789&show_icons=true&theme=great-gatsby)
                                                                                                      
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehk77789&langs_count=8)](https://github.com/leehk77789/github-readme-stats)
