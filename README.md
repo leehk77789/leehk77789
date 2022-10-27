@@ -7,6 +7,7 @@ Hi there!!
 
 📫 How to reach me : leehk77789@gmail.com
 
+📫Tech Stack📫
 <a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a>
