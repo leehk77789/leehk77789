@@ -1,17 +1,17 @@
 <div align=center>
 
-<h1>:bell:introduction:bell:<h1></br>
+<h1>:bell:introduction:bell:</h1></br>
 🌱 Im BE developer </br>
 🌱 I graduated Myongji University at Seoul, South Korea.</br>
 🌱 I learned Java, Spring.</br>
 🌱 I'm currently learning Python, Django, Machine Learning.</br></br></br>
 
-#:star2:social:star2:</br>
+<h1>#:star2:social:star2:</h1></br>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/leehk77789)](https://github.com/leehk77789)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC8c6l9affNOQQoLdYlL0BrQ)](https://www.youtube.com/channel/UC8c6l9affNOQQoLdYlL0BrQ)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)</br></br></br>
 
-#:mortar_board:Tech Stack:mortar_board:</br>
+<h1>#:mortar_board:Tech Stack:mortar_board:</h1></br>
 <a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a>
