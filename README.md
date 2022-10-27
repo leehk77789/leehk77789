@@ -1,9 +1,9 @@
 Hi there!! 
 
-🌱 Im BE developer
-🌱 I graduated Myongji University at Seoul, South Korea.
-🌱 I learned Java, Spring Boot.
-🌱 I'm currently learning Python, Django, Machine Learning.
+🌱 Im BE developer </br>
+🌱 I graduated Myongji University at Seoul, South Korea.</br>
+🌱 I learned Java, Spring.</br>
+🌱 I'm currently learning Python, Django, Machine Learning.</br>
 
 📫 How to reach me : leehk77789@gmail.com
 
