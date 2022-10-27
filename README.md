@@ -7,8 +7,8 @@
 🌱 I'm currently learning Python, Django, Machine Learning.</br>
 
 <h1>💌social💌</h1></br>
-<a href="mailto:leehk77789@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leehk77789@gmail.com"/></a>
 <a href="https://jun0103.tistory.com/"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://jun0103.tistory.com/"/></a>
+<a href="mailto:leehk77789@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leehk77789@gmail.com"/></a>
 </br>
 
 <h1>:mortar_board:Tech Stack:mortar_board:</h1></br>
