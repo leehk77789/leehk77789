@@ -5,8 +5,10 @@ Hi there!!
 🌱 I learned Java, Spring.</br>
 🌱 I'm currently learning Python, Django, Machine Learning.</br>
 
-📧email📧</br>
-leehk77789@gmail.com
+🗣️social🗣️</br>
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/leehk77789)](https://github.com/leehk77789)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC8c6l9affNOQQoLdYlL0BrQ)](https://www.youtube.com/channel/UC8c6l9affNOQQoLdYlL0BrQ)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leehk77789@gmail.com)](leehk77789@gmail.com)
 
 📫Tech Stack📫</br>
 <a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
