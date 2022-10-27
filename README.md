@@ -5,7 +5,8 @@ Hi there!!
 🌱 I learned Java, Spring.</br>
 🌱 I'm currently learning Python, Django, Machine Learning.</br>
 
-📫 How to reach me : leehk77789@gmail.com
+📧email📧</br>
+leehk77789@gmail.com
 
 📫Tech Stack📫</br>
 <a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
