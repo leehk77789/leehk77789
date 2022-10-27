@@ -2,14 +2,15 @@
 
 <h1>:bell:introduction:bell:</h1></br>
 🌱 Im BE developer </br>
-🌱 I graduated Myongji University at Seoul, South Korea.</br>
-🌱 I learned Java, Spring.</br>
-🌱 I'm currently learning Python, Django, Machine Learning.</br>
+I graduated Myongji University at Seoul, South Korea.</br>
+I learned Java, Spring.</br>
+I'm currently learning Python, Django, Machine Learning.</br>
 
 <h1>💌social💌</h1></br>
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC8c6l9affNOQQoLdYlL0BrQ)](https://www.youtube.com/channel/UC8c6l9affNOQQoLdYlL0BrQ)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leehk77789@gmail.com)](mailto:leehk77789@gmail.com)
+<a herf="https://jun0103.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFB80B?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 </br>
 
