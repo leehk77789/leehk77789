@@ -8,7 +8,7 @@
 
 <h1>💌social💌</h1></br>
 <a href="https://jun0103.tistory.com/"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://jun0103.tistory.com/"/></a>
-<a href="mailto:leehk77789@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leehk77789@gmail.com"/></a>
+[![Video Label](http://img.youtube.com/vi/'https://www.youtube.com/channel/UC8c6l9affNOQQoLdYlL0BrQ'/0.jpg)](https://youtu.be/'https://www.youtube.com/channel/UC8c6l9affNOQQoLdYlL0BrQ')
 </br>
 
 <h1>:mortar_board:Tech Stack:mortar_board:</h1></br>
