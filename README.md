@@ -12,12 +12,14 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 </br></br></br>
 
-<h1>#:mortar_board:Tech Stack:mortar_board:</h1></br>
+<h1>:mortar_board:Tech Stack:mortar_board:</h1></br>
 <a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a>
 <a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+</br></br></br>
+
 
 ![leehk77789's GitHub stats](https://github-readme-stats.vercel.app/api?username=leehk77789&show_icons=true&theme=great-gatsby)
 
