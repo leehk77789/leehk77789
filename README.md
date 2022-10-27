@@ -1,4 +1,4 @@
-Hi there!!!!!
+Hi there!!!
 
 🌱 Im BE developer </br>
 🌱 I graduated Myongji University at Seoul, South Korea.</br>
