@@ -10,7 +10,6 @@
 <a href="mailto:leehk77789@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leehk77789@gmail.com"/></a>
 <a href="https://jun0103.tistory.com/"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://jun0103.tistory.com/"/></a>
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC8c6l9affNOQQoLdYlL0BrQ)](https://www.youtube.com/channel/UC8c6l9affNOQQoLdYlL0BrQ)
-</br>
 
 <h1>:mortar_board:Tech Stack:mortar_board:</h1></br>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
