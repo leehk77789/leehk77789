@@ -6,10 +6,10 @@
 🌱 I learned Java, Spring.</br>
 🌱 I'm currently learning Python, Django, Machine Learning.</br></br></br>
 
-<h1>:star2:social:star2:</h1></br>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/leehk77789)](https://github.com/leehk77789)
+<h1>💌social💌</h1></br>
+<a href="mailto:leehk77789@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leehk77789@gmail.com"/></a>
+<a href="https://jun0103.tistory.com/"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://jun0103.tistory.com/"/></a>
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC8c6l9affNOQQoLdYlL0BrQ)](https://www.youtube.com/channel/UC8c6l9affNOQQoLdYlL0BrQ)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 </br></br></br>
 
 <h1>:mortar_board:Tech Stack:mortar_board:</h1></br>
@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </br></br></br>
 
-
+<h1>:star2:Gitgub Stats:star2:</h1>
 ![leehk77789's GitHub stats](https://github-readme-stats.vercel.app/api?username=leehk77789&show_icons=true&theme=great-gatsby)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehk77789&langs_count=8)](https://github.com/leehk77789/github-readme-stats)
