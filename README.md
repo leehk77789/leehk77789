@@ -4,13 +4,13 @@
 🌱 Im BE developer </br>
 🌱 I graduated Myongji University at Seoul, South Korea.</br>
 🌱 I learned Java, Spring.</br>
-🌱 I'm currently learning Python, Django, Machine Learning.</br></br></br>
+🌱 I'm currently learning Python, Django, Machine Learning.</br>
 
 <h1>💌social💌</h1></br>
 <a href="mailto:leehk77789@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leehk77789@gmail.com"/></a>
 <a href="https://jun0103.tistory.com/"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://jun0103.tistory.com/"/></a>
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC8c6l9affNOQQoLdYlL0BrQ)](https://www.youtube.com/channel/UC8c6l9affNOQQoLdYlL0BrQ)
-</br></br></br>
+</br>
 
 <h1>:mortar_board:Tech Stack:mortar_board:</h1></br>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-</br></br></br>
+</br>
 
 <h1>:star2:GitHub Stats:star2:</h1>
                                                                                                      
