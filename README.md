@@ -10,8 +10,7 @@ I'm currently learning Python, Django, Machine Learning.</br>
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC8c6l9affNOQQoLdYlL0BrQ)](https://www.youtube.com/channel/UC8c6l9affNOQQoLdYlL0BrQ)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leehk77789@gmail.com)](mailto:leehk77789@gmail.com)
-<a herf="https://jun0103.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFB80B?style=flat-square&logo=Tistory&logoColor=white"/></a>
-
+[![Blog Badge](https://img.shields.io/badge/blog-FFCD00?style=flat-square&logo=Kakao&logoColor=white&link=https://jun0103.tistory.com/)](https://jun0103.tistory.com/)
 </br>
 
 <h1>:mortar_board:Tech Stack:mortar_board:</h1></br>
