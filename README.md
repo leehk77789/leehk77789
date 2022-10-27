@@ -31,7 +31,11 @@
                                                                                                      
 ![leehk77789's GitHub stats](https://github-readme-stats.vercel.app/api?username=leehk77789&show_icons=true&theme=great-gatsby)
                                                                                                      
+<h1>:star2:Top Langs:star2:</h1>
+                                                                                                     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehk77789&langs_count=8)](https://github.com/leehk77789/github-readme-stats)
+                                                                                                     
+<h1>:star2:Trophy:star2:</h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=leehk77789)](https://github.com/ryo-ma/github-profile-trophy)
 
