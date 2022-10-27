@@ -7,7 +7,6 @@
 🌱 I'm currently learning Python, Django, Machine Learning.</br>
 
 <h1>💌social💌</h1></br>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/leehk77789)](https://github.com/leehk77789)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC8c6l9affNOQQoLdYlL0BrQ)](https://www.youtube.com/channel/UC8c6l9affNOQQoLdYlL0BrQ)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leehk77789@gmail.com)](mailto:leehk77789@gmail.com)
 </br>
