@@ -7,7 +7,7 @@ I learned Java, Spring.</br>
 I'm currently learning Python, Django, Machine Learning.</br>
 
 <h1>💌social💌</h1></br>
-
+💌 : leehk77789@gmail.com
 </br>
 
 <h1>:mortar_board:Tech Stack:mortar_board:</h1></br>
