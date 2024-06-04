@@ -6,6 +6,7 @@ I graduated Myongji University at Seoul, South Korea.</br>
 I learned Java, Spring, Python, Django.</br></br></br>
 2022/08 ~ 2022/12 - Sparta Coding Club </br>
 2023/01 ~ 2023/12 - Samsung Software Academy </br>
+2024/03 ~ - OZ CodingSchool </br>
 
 <h1>💌social💌</h1></br>
 💌 : leehk77789@gmail.com
